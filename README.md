@@ -5,4 +5,8 @@
 - ⚡ My personal website: https://jcwang123.github.io
 - 📫 How to reach me: jiachengw@stu.xmu.edu.cn
 
-[![Jcwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcwang123&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=default)
+
+
+| <a href="https://github.com/jcwang123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jcwang123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jcwang's github stats" /></a> | <a href="https://github.com/jcwang123"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcwang123&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
