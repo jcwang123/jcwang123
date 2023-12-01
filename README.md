@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Medical Image Analysis, especially Object Segmentation and Surgery Analysis.
 - ⚡ My personal website: https://jcwang123.github.io
 - ⚡ My photos: https://jcwang123.github.io/myphoto
+- ⚡ Google Scholar: [Jiacheng Wang](https://scholar.google.com/citations?user=TSje0EkAAAAJ&hl=zh-CN)
 - 📫 How to reach me: jiachengw@stu.xmu.edu.cn
 
 
